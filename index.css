@@ -1,0 +1,24 @@
+h1{
+    color:gray;
+    background-color: aquamarine;
+    border: 5px solid green;
+    padding: 25px;
+    margin: 10px;
+    text-align: center;
+}
+
+h3{
+    border:5px dotted black;
+    padding: 20px;
+    text-align: center;
+}
+p{
+    color: white;
+    background-color: black;
+    padding: 30px;
+    text-align: justify;
+}
+image{
+    border: 20px double rgb(172, 141, 141);
+    margin: 20px;
+}
